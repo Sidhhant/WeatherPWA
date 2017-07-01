@@ -21,4 +21,4 @@ This is a work in progress, if you find a mistake, please [file an issue](https:
 # WeatherPWA
 Progressive Web App 
 
-![Alt text](Screenshot from 2017-07-01 21-37-22.png?raw=true "Optional Title")
+![Alt text](./Screenshot from 2017-07-01 21-37-22.png?raw=true "Optional Title")
